@@ -1,6 +1,8 @@
-<div align='center' float='right'>
-   <img src="https://res.cloudinary.com/dcdmmuhf2/image/upload/v1696017890/GitHub%20Profile/avatar_brtsok.png" width='200'/>
-   <p>[ Hello, Welcome to my Profile ]</p>
+<div align='center'>
+   <a href="">
+      <img src="https://res.cloudinary.com/dcdmmuhf2/image/upload/v1696017890/GitHub%20Profile/avatar_brtsok.png" width='200'/> 
+   </a>
+</div>
 </div>
    <div align='center'>
       <img src='https://res.cloudinary.com/dcdmmuhf2/image/upload/v1696018747/GitHub%20Profile/separator2_b7xsiz.png'  width="100%>
