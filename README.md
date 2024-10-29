@@ -1,6 +1,6 @@
 <div align='center'>
    <img src="https://res.cloudinary.com/dcdmmuhf2/image/upload/v1696017890/GitHub%20Profile/avatar_brtsok.png" width="200px">
-    <h1>Hello, my name is Atanas Zlatev:wave: </br>I'm a Web Developer</h1>
+    <h1>Hello, my name is Atanas Zlatev </br>I'm a Web Developer</h1>
  
 </div>
 </div>
